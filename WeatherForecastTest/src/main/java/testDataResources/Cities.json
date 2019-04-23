@@ -1,0 +1,21 @@
+{
+  "city": 
+  {
+    "id": 2650225,
+    "name": "Edinburgh",
+    "coord": 
+    {
+      "lon": -3.19648,
+      "lat": 55.952061
+    },
+    "country": "GB",
+    "population": 0,
+    "sys": 
+    {
+      "population": 0
+    }
+  },
+  "cod": "200",
+  "message": 0.2391,
+  "cnt": 36
+}
